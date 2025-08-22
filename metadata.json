@@ -1,0 +1,5 @@
+{
+  "name": "Vibe-to-Code: Cognitive Autodevelopment",
+  "description": "An enterprise-grade 'Vibe-to-Code' ecosystem, accessible through a hyper-contextualized natural language interface, that completely abstracts away traditional development. The system dynamically infers application logic, data schemas, and deployment topologies from a continuous, evolving conversational flow, and proactively optimizes the entire stack.",
+  "requestFramePermissions": []
+}
